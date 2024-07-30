@@ -1,0 +1,25 @@
+
+.alert {
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px 0;
+  }
+  
+  .alert-success {
+    background-color: darkgreen;
+    color: yellowgreen;
+    border: 1px solid #c3e6cb;
+  }
+  
+  .alert-warning {
+    background-color:orange;
+    color:orangered;
+    border: 1px solid #ffeeba;
+  }
+  
+  .alert-error {
+    background-color: red;
+    color: black;
+    border: 1px solid #f5c6cb;
+  }
+  

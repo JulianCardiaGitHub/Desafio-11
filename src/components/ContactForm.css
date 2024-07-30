@@ -1,0 +1,27 @@
+/* src/components/ContactForm.css */
+.contact-form {
+    max-width: 500px;
+    margin: 20px auto;
+  }
+  
+  .contact-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contact-form label {
+    margin-bottom: 5px;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 1em;
+  }
+  
+  .contact-form button {
+    padding: 10px 20px;
+    font-size: 1em;
+  }
+  
